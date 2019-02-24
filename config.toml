@@ -51,7 +51,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Blog"
-      url = "https:/hirotatsu.me"
+      url = "https://hirotatsu.me"
 
     [[params.navigation.links]]
       name = "Twitter"
