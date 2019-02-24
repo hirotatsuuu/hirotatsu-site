@@ -50,16 +50,12 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
-      url = "blogs"
+      name = "Twitter"
+      url = "https://www.twitter.com/hirotatsuuu"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
-
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "Instagram"
+      url = "https://www.instagram.com/hirotatsuuuu"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -69,21 +65,21 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
+    # [[params.navigation.button1]]
+    #   name = "Twitter"
+    #   url = "https://www.twitter.com/hirotatsuuu"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    # [[params.navigation.button2]]
+    #   name = "Instagram"
+    #   url = "https://www.instagram.com/hirotatsuuuu"
 
 
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is hirotatsu"
+    title = "hi, my name is hirotatsu"
     subtitle = "This site is summary all of Hirotsutsu"
     buttonText = "Let's go"
 
@@ -94,40 +90,64 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "htlp.work"
-      subtitle = "フリーランスエンジニアとしての活動"
+      title = "ゼロ円ワーホリ"
+      subtitle = "ゼロ円ワーホリについて詳しく書いています"
       image = "pic01.jpg"
+      url = "https://hirotatsu.me/use-money-total/"
+
+    [[params.tiles.showcase]]
+      title = "Polca"
+      subtitle = "ゼロ円ワーホリを実現するためにPolcaの企画を立てさせて頂いています"
+      image = "pic02.jpg"
+      url = "https://polca.jp/projects/wnt7BGGHcIl"
+
+    [[params.tiles.showcase]]
+      title = "Twitter"
+      subtitle = "Twitterでは旅に関する情報を中心に思ったことをつぶやいています"
+      image = "pic03.jpg"
+      url = "https://www.twitter.com/hirotatsuuu"
+
+    [[params.tiles.showcase]]
+      title = "Instagram"
+      subtitle = "Instagramでは旅の画像を投稿しています"
+      image = "pic04.jpg"
+      url = "https://www.instagram.com/hirotatsuuuu"
+
+    [[params.tiles.showcase]]
+      title = "世界のひろたつから"
+      subtitle = "「世界のひろたつから」というブログを管理しています"
+      image = "pic05.jpg"
+      url = "https://hirotatsu.me"
+
+    [[params.tiles.showcase]]
+      title = "htlp.work"
+      subtitle = "フリーランスエンジニアとして活動をしています"
+      image = "pic06.jpg"
       url = "https://htlp.work"
 
     [[params.tiles.showcase]]
       title = "hitchhike.work"
-      subtitle = "ぼくの今までのヒッチハイクのすべて"
-      image = "pic02.jpg"
+      subtitle = "ぼくの今までのヒッチハイクのすべてです"
+      image = "pic07.jpg"
       url = "https://hitchhike.work"
 
     [[params.tiles.showcase]]
       title = "tatsuppi.work"
-      subtitle = "ぼくが初めて作ったwebアプリケーション"
-      image = "pic03.jpg"
+      subtitle = "ぼくが初めて作ったwebアプリケーションです"
+      image = "pic08.jpg"
       url = "https://tatsuppi.work"
 
     [[params.tiles.showcase]]
       title = "hirotatsu.work"
-      subtitle = "ぼくが初めて作った僕自身のサイト"
-      image = "pic05.jpg"
+      subtitle = "ぼくが初めて作った自分自身のサイトです"
+      image = "pic09.jpg"
       url = "https://hirotatsu.work"
 
     [[params.tiles.showcase]]
-      title = "エセ関西弁協会"
-      subtitle = ""
-      image = "pic04.jpg"
+      title = "esekansai.work"
+      subtitle = "エセ関西弁協会の公式サイトです"
+      image = "pic10.jpg"
       url = "https://esekansai.work"
-
-    [[params.tiles.showcase]]
-      title = "hirotatsu.me"
-      subtitle = "ぼくが運営しているブログ"
-      image = "pic06.jpg"
-      url = "https://hirotatsu.me"
 
 
   [params.blog]
@@ -140,20 +160,16 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus pharetra.
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
+    title = "About"
+    subtitle = """ひろたつ。1994年12月8日生まれ。東京出身。大学卒業後、新卒で都内のIT企業にエンジニアとして入社。WEBアプリ開発や新入社員への教育等の実務を経験。退職後はヒッチハイクやボランディアで世界を旅しながらフリーランスエンジニアとして活動中。ブログを書いたり写真を撮ったり。現在はニュージーランドで「ゼロ円ワーホリ」という活動をしているよん。プログラミングを愛する甘党。人と自然が好き。"""
+    buttonText = "Blog"
     url = "blogs"
 
 
   # Contact section
   [params.contact]
-    enable = true
-    buttonSend = "Send message"
+    enable = false
+    buttonSend = "Send"
     buttonClear = "Clear"
 
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -189,35 +205,25 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "hirotatsu"
 
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://www.twitter.com"
+      url= "https://www.twitter.com/hirotatsuuu"
       label = "Twitter"
 
     [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
-
-    [[params.footer.social]]
       icon = "fa-instagram"
-      url= "https://www.instagram.com"
+      url= "https://www.instagram.com/hirotatsuuuu"
       label = "Instagram"
 
     [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
+      icon = "fa-globe"
+      url= "https://hirotatsu.me"
+      label = "Blog"
 
     [[params.footer.social]]
-      icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
-      label = "LinkedIn"
-
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
+      icon = "fa-github"
+      url= "https://www.github.com/hirotatsuuu"
+      label = "GitHub"

@@ -40,13 +40,13 @@
   </url>
   
   <url>
-    <loc>https://hirotatsu.site/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <loc>https://hirotatsu.site/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hirotatsu.site/tags/</loc>
+    <loc>https://hirotatsu.site/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
