@@ -6,45 +6,23 @@
     <description>Recent content on hirotatsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 23:43:33 +1300</lastBuildDate>
     
 	<atom:link href="https://hirotatsu.site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Aliquam</title>
-      <link>https://hirotatsu.site/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      <title>Helloworld</title>
+      <link>https://hirotatsu.site/blogs/helloworld/</link>
+      <pubDate>Sat, 02 Mar 2019 23:43:33 +1300</pubDate>
       
-      <guid>https://hirotatsu.site/blogs/aliquam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tempus</title>
-      <link>https://hirotatsu.site/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>https://hirotatsu.site/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magna</title>
-      <link>https://hirotatsu.site/blogs/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>https://hirotatsu.site/blogs/magna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>https://hirotatsu.site/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://hirotatsu.site/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <guid>https://hirotatsu.site/blogs/helloworld/</guid>
+      <description>はじめまして。
+ひろたつといいます。
+以後、お見知りおきをお願い致します。
+ちなみに。
+写真は僕ではありません。
+フリー素材です。</description>
     </item>
     
   </channel>

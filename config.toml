@@ -51,7 +51,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Blog"
-      url = "https://hirotatsu.me"
+      url = "blogs"
 
     [[params.navigation.links]]
       name = "Twitter"
@@ -103,7 +103,7 @@ disqusShortname = ""
       title = "Polca"
       subtitle = "ゼロ円ワーホリを実現するためにPolcaの企画を立てさせて頂いています"
       image = "pic02.jpg"
-      url = "https://polca.jp/projects/wnt7BGGHcIl"
+      url = "https://polca.jp/projects/qaeABoFJh6O"
 
     [[params.tiles.showcase]]
       title = "Twitter"

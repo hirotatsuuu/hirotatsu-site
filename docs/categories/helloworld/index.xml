@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lifestyle on hirotatsu</title>
-    <link>https://hirotatsu.site/blogs/</link>
-    <description>Recent content in Lifestyle on hirotatsu</description>
+    <title>Helloworld on hirotatsu</title>
+    <link>https://hirotatsu.site/categories/helloworld/</link>
+    <description>Recent content in Helloworld on hirotatsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 23:43:33 +1300</lastBuildDate>
     
-	<atom:link href="https://hirotatsu.site/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hirotatsu.site/categories/helloworld/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
