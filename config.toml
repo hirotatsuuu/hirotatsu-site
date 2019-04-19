@@ -51,7 +51,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Blog"
-      url = "blogs"
+      url = "https://hirotatsu.me"
 
     [[params.navigation.links]]
       name = "Twitter"
@@ -101,19 +101,19 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Polca"
-      subtitle = "ゼロ円ワーホリを実現するためにPolcaの企画を立てさせて頂いています"
+      subtitle = "「ゼロ円ワーホリ」という活動を応援してくださると嬉しいです"
       image = "pic02.jpg"
       url = "https://polca.jp/projects/qaeABoFJh6O"
 
     [[params.tiles.showcase]]
       title = "Twitter"
-      subtitle = "Twitterでは旅に関する情報を中心に思ったことをつぶやいています"
+      subtitle = "旅に関する情報を中心に思ったことをつぶやいています"
       image = "pic03.jpg"
       url = "https://www.twitter.com/hirotatsuuu"
 
     [[params.tiles.showcase]]
       title = "Instagram"
-      subtitle = "Instagramでは旅の画像を投稿しています"
+      subtitle = "旅の画像を投稿しています"
       image = "pic04.jpg"
       url = "https://www.instagram.com/hirotatsuuuu"
 
@@ -137,7 +137,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "tatsuppi.work"
-      subtitle = "ぼくが初めて作ったwebアプリケーションです"
+      subtitle = "ぼくが初めて作ったwebアプリケーションです（家計簿アプリ）"
       image = "pic08.jpg"
       url = "https://tatsuppi.work"
 
@@ -221,3 +221,9 @@ disqusShortname = ""
       icon = "fa-instagram"
       url= "https://www.instagram.com/hirotatsuuuu"
       label = "Instagram"
+
+    # Design
+    [[params.footer.quicklinks]]
+      text = "design : "
+      url= "https://www.html5up.net"
+      alt = "HTML5 UP"
