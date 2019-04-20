@@ -103,7 +103,7 @@ disqusShortname = ""
       title = "Polca"
       subtitle = "「ゼロ円ワーホリ」という活動を応援してくださると嬉しいです"
       image = "pic02.jpg"
-      url = "https://polca.jp/projects/qaeABoFJh6O"
+      url = "https://polca.jp/users/hirotatsuuu"
 
     [[params.tiles.showcase]]
       title = "Twitter"
@@ -165,7 +165,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About"
-    subtitle = """ひろたつ。1994年12月8日生まれ。東京出身。大学卒業後、新卒で都内のIT企業にエンジニアとして入社。WEBアプリ開発や新入社員への教育等の実務を経験。退職後はヒッチハイクやボランディアで世界を旅しながらフリーランスエンジニアとして活動中。ブログを書いたり写真を撮ったり。現在はニュージーランドで「ゼロ円ワーホリ」という活動をしているよん。プログラミングを愛する甘党。人と自然が好き。"""
+    subtitle = """ひろたつ。1994年12月8日生まれ。東京出身。大学卒業後、新卒で都内のIT企業にエンジニアとして入社。WEBアプリ開発や新入社員への教育等の実務を経験。退職後はヒッチハイクやボランディアで世界を旅しながらフリーランスエンジニアとして活動中。ブログを書いたり写真を撮ったり。現在はニュージーランドで「ゼロ円ワーホリ」という活動をしている。プログラミングを愛する甘党。「世界中の人と自然に触れる旅」"""
     buttonText = "Blog"
     url = "blogs"
 

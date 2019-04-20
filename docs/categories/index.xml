@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hirotatsu</title>
+    <title>Categories on hirotatsu</title>
     <link>https://hirotatsu.site/categories/</link>
-    <description>Recent content on hirotatsu</description>
+    <description>Recent content in Categories on hirotatsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 02 Mar 2019 23:43:33 +1300</lastBuildDate>
@@ -12,21 +12,20 @@
     
     
     <item>
-      <title>Helloworld</title>
-      <link>https://hirotatsu.site/blogs/helloworld/</link>
+      <title></title>
+      <link>https://hirotatsu.site/categories/</link>
       <pubDate>Sat, 02 Mar 2019 23:43:33 +1300</pubDate>
       
-      <guid>https://hirotatsu.site/blogs/helloworld/</guid>
-      <description>はじめまして。
-ひろたつといいます。
-以後、お見知りおきをお願い致します。
-ちなみに。
-写真は僕ではありません。
-フリー素材です。</description>
+      <guid>https://hirotatsu.site/categories/</guid>
+      <description></description>
     </item>
     
-  </channel>
-</rss>tsu.site/categories/helloworld/</guid>
+    <item>
+      <title>Helloworld</title>
+      <link>https://hirotatsu.site/categories/helloworld/</link>
+      <pubDate>Sat, 02 Mar 2019 23:43:33 +1300</pubDate>
+      
+      <guid>https://hirotatsu.site/categories/helloworld/</guid>
       <description></description>
     </item>
     
